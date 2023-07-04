@@ -1,19 +1,13 @@
-Overleaf link with edit access to ST, RA and my gmail.
-https://www.overleaf.com/2725998975fvyybcbtjybf
+Youtube Video Link:https://youtu.be/hYFBr2ijG-Q
 
-Link to unlisted YouTube video:
-https://www.youtube.com/playlist?list=PLlsM2WDsQlrAANXdAQY4raiYdFprS5xzU
+Paper Title: Tomato Leaf Disease Detection Using Convolution
+Neural Network
 
-Github Link:https://github.com/Shaharear-Emon/CSE449
+Paper Link: https://www.researchgate.net/publication/350939912
 
-Project title:
-Tomato Leaf desiease prediction Using Neural Network 
+Presentation slide link:https://docs.google.com/presentation/d/13UNAQ34jtAev7LKxb4_YITF4rFbSMEgS/edit?usp=sharing&ouid=117481223745540967941&rtpof=true&sd=true
 
-Group Number:
-02
+Group Number:02
 
-Group Members: 
-18201109_Shaharear Hossain Emon,
-23366033 – Tamanna Afroz
-23366023 - Sabbir Hossain
-23366022 – Nishat Nayla
+Individual Submitter:
+18201109 Shaharear Hossain Emon
